@@ -22,12 +22,12 @@
     random.choice(["a", "b", "c"]) <br>
     # "a" или "b" или "c"
 </code>
-<br><br>
+<br>
 <code>
     random.randint(0, 100) <br>
     # любое число из промежутка [0, 100)
 </code>
-<br><br>
+<br>
 <code>
     "ХаХаХа".lower() <br>
     # ИЛИ <br>
